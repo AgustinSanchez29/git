@@ -1,5 +1,5 @@
 const txt={
-    name: "agustin",
+    name: "agustinn",
     age:24,
     skills:"grow up easily",
 }
